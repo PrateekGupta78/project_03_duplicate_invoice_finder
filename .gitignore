@@ -1,0 +1,3 @@
+# ignore output CSV files
+clean_invoices.CSV
+duplicate_invoices.CSV
